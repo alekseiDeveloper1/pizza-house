@@ -1,0 +1,27 @@
+header {
+    background-color: #FFDF00;
+}
+a {
+    text-decoration: none;
+    color: #333
+}
+.nav-link:hover {
+    color: #777
+}
+.logo {
+    color: #333
+}
+.header__nav {
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+.product__price {
+    font-weight: 600;
+    font-size: 50px;
+    color:red;
+}
+.product__title {
+    font-weight: 600;
+    font-size: 25px;
+}
